@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tonisario
-- 👀 I’m interested in FPV world and programming
-- 🌱 I’m currently learning all about FPV
+- 👋 Hi, I’m @tonisario, PLC Programmer
+- 👀 I’m interested all that has to do with Automation and Robotics
+- 🌱 I’m currently learning all about IOT, and Industrial Automation.
 
 <!---
 tonisario/tonisario is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
